@@ -1,2 +1,2 @@
-# NumericalMethods
-program for the solution of the problem using Numerical Methods
+# Numerical Methods
+programs for the solution of problems using Numerical Methods
